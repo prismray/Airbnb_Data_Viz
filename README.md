@@ -20,8 +20,7 @@ Airbnb is a company based in San Francisco that operates an online marketplace a
 
 ### **1. Which combination of property type and density level has highest occupancy?**
 ![](Images/1_Occupancy_Rate_PropertyType_Property_Density.png)
-
-* **Insights:**
+#### **Insights:**
 
 * As can be seen in the visualization above, if one wants to start their Airbnb lisitng a Private Room in a Highly Dense neighbourhood for Private Rooms has the highest occupancy rate, suggesting that visitors who prefer to stay in those neighbourhoods tend to go for Private Rooms. This is followed by Entire Homes in High, Medium and Low Density neighbourhoods (in that order) for Entire Homes. 
 * The above visualization also suggests that Entire Homes generally have a higher occupancy rate v/s Shared Rooms. So as someone who's considering listing their property on Airbnb  would find these insights useful to decide where and what kind of property to list
