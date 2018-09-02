@@ -12,13 +12,19 @@ Airbnb is a company based in San Francisco that operates an online marketplace a
 
 ## **Metric I defined to structure my analysis:**
 
-* **Property Density:** This defines the density level of each property type (Entire Home, Private Room and Shared Room ) for each neighbourhood in San Francisco
+* **Property Density:** This defines the density level of each property type (Entire Home, Private Room and Shared Room) for each neighbourhood in San Francisco
 
 * **Occupancy Rate:** (Days Occupied in between Aug 16 '18 to Nov 16 '18 (90 days) / 90 Days) * 100
 
 ## **The questions my analysis aims to answer:**
 
 ### **1. Which combination of property type and density level has highest occupancy?**
+![](Images/1_Occupancy_Rate_PropertyType_Property_Density.png)
+
+* **Insights:**
+
+* As can be seen in the visualization above, if one wants to start their Airbnb lisitng a Private Room in a Highly Dense neighbourhood for Private Rooms has the highest occupancy rate, suggesting that visitors who prefer to stay in those neighbourhoods tend to go for Private Rooms. This is followed by Entire Homes in High, Medium and Low Density neighbourhoods (in that order) for Entire Homes. 
+* The above visualization also suggests that Entire Homes generally have a higher occupancy rate v/s Shared Rooms. So as someone who's considering listing their property on Airbnb  would find these insights useful to decide where and what kind of property to list
 
 
 
