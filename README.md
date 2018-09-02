@@ -10,13 +10,13 @@ Airbnb is a company based in San Francisco that operates an online marketplace a
 * **listngs.csv:** The datasets contains 6,663 listings in the city of San Francisco with details such as: Property Type, Neighbourhood, Price, Number of Reviews, Availability for the next year as seen on their website on August 16th, 2018
 * **calendar.csv:** Daily prices of each property in San Francisco from Aug'18 to Aug '19
 
-## **Metric I defined to structure analysis:**
+## **Metric I defined to structure my analysis:**
 
 * **Property Density:** This defines the density level of each property type (Entire Home, Private Room and Shared Room ) for each neighbourhood in San Francisco
 
 ## **The questions my analysis aims to answer:**
 
-### **1. Which combination of property type and density level has highest occupancy?:**
+### **1. Which combination of property type and density level has highest occupancy?**
 
 
 
