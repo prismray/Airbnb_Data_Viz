@@ -4,7 +4,7 @@
 
 Airbnb is a company based in San Francisco that operates an online marketplace and hospitality service for people to lease or rent short-term lodging. I love travelling and have used Airbnb whenever I have the option to and would love to work for them. That's why I decided to analyze data scraped from their website to present interesting insights and visualizations.
 
-## **This project has used San Francisco Airbnb data scraped from their website on Aug 16th 2018. I used the following datasets available on the link  :** http://insideairbnb.com/get-the-data.html
+#### **This project has used San Francisco Airbnb data scraped from their website on Aug 16th 2018. I used the following datasets available on the link  :** http://insideairbnb.com/get-the-data.html
 
 * **listings_summary.csv:** Detailed information about each listing such as description, host name, geo-coordinates and so on
 * **listngs.csv:** The datasets contains 6,663 listings in the city of San Francisco with details such as: Property Type, Neighbourhood, Price, Number of Reviews, Availability for the next year as seen on their website on August 16th, 2018
