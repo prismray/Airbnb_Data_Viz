@@ -14,6 +14,8 @@ Airbnb is a company based in San Francisco that operates an online marketplace a
 
 * **Property Density:** This defines the density level of each property type (Entire Home, Private Room and Shared Room ) for each neighbourhood in San Francisco
 
+* **Occupancy Rate:** (Days Occupied in between Aug 16 '18 to Nov 16 '18 (90 days) / 90 Days) * 100
+
 ## **The questions my analysis aims to answer:**
 
 ### **1. Which combination of property type and density level has highest occupancy?**
