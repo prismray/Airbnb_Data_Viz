@@ -45,7 +45,7 @@ The exact correlation:
 ![](Images/3.2_Correlation_Occupancy_Rate_Review_Count_Entire_Home.png)
 #### **Insights:**
 While the visualization doesn't present a clear correlation, it reveals an interesting insight that once an Entire Home priced below its neighbourhood median price (blue dots), crosses the threshold 200 review count, it will most like have an occupancy rate of greater than 40% which is not as high as the average occupancy rate for San Francisco (60%), but it is still safe to say that a higher review count results in a decent occupancy rate for homes prices below neighbourhood median since there is just one blue dot with a review count of more than 200 and occupancy rate of less than 40% . The same cannot be said about Shared Rooms priced above its neighbourhood median price (red dots). 
-The exact correlation:
+<br /> The exact correlation:
 * Between review count and occupancy rate for Entire Homes priced below neighbourhood median price (blue dots): 0.21
 * Between review count and occupancy rate for Entire Homes priced above neighbourhood median price (red dots): 0.02
 
